@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+
+    <meta charset="utf-8">
+	<title>MR Blog</title>
+	<meta name="description" content="Blog na temat życia fightera!">
+	<meta name="keywords" content="fight, fighter, blog, kickboxing, muay thai, mma">
+	
+	<meta http-equiv="X-Ua-Compatible" content="IE=edge, chrome=1">
+	
+	<link rel="stylesheet" href="style.css">
+	<link rel="icon" href="favicon.ico">
+	<link rel="X-Frame-Options" href="sameorigin">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+	
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"</script>
+	<![endif]-->
+	
+</head>
+
+<body>
+
+<div id="wrapper">
+<nav>
+<div class="obraz">
+<header>
+<img width="1000" height="300" src="ft.jpg"/>
+</header>
+
+</div>
+
+<nav>
+<div class="menu">
+
+          <li><a href="#">STRONA GŁÓWNA</a></li>
+		  <li><a href="#">O MNIE</a></li>
+		  <li><a href="#">OSIĄGNIĘCIA</a></li>
+		  <li><a href="#">KONTAKT - marekrogorz2004@gmail.com</a></li>
+</nav>
+
+
+<section>
+<article>
+
+<div class="me">
+<p>Kim jestem?</p>
+<div class="pasek1"></div>
+
+<div class="left">
+<img width="200" height="300" src="profilowe-fb.jpg"/>
+</div>
+
+<h1>Nazywam się Marek Rogórz. Od 2019 roku zajmuję się sportami walki takimi jak: kickboxing, jiu-jitsu, muay thai,
+   zapasy oraz mma. W swojej karierze mam również stoczone walki w ringu.
+   <h1>Odkąd zacząłem trenować sztuki walki, odrazu stało się to moją pasją.</h1>
+   </h1>
+   <h1>Na tej stronie znajdziesz informacje o mnie oraz ostatnie wydarzenia z mojego życia w postaci filmów i zdjęć.</h1>
+  
+
+</article>
+</section>
+<iframe width="560" height="550" src="https://www.youtube.com/embed/4NbVbKC0qzw?start=6182" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
